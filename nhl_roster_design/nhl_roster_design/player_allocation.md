@@ -14,7 +14,7 @@
 - a) overall zone start of each player from the visitor team in all (6) positions
 - b) overall zone start of each player from the home team in all (6) positions
 ### 5) allocate players per position to forward lines and defensive pairings
-- If the zone start variable of a player for a given team is the highest in that specific position, it indicates that he participated in the most offensive zone starts. These skaters will be identified as first line forwards and top defenisive pairing.
-- If the zone start variable of a player is the second highest in that specific position, it indicates that the given skater participated in the second most offensive zone starts. These skaters will be identified as second line forwards and second defenisive pairing.
-- If the zone start variable of a player is the third highest in that specific position, it indicates that the given skater participated in the third most offensive zone starts. These skaters will be identified as third line forwards and bottom defenisive pairing.
-- If the zone start variable of a player is the lowest in that specific position, it indicates that the given skater participated in the least offensive zone starts. These skaters will be identified as fourth line forwards.
+- If the zone start variable of a player for a given team is the highest in that specific position, it indicates that he participated in the most offensive zone starts. These skaters will be identified as **first line forwards and top defenisive pairing.**
+- If the zone start variable of a player is the second highest in that specific position, it indicates that the given skater participated in the second most offensive zone starts. These skaters will be identified as **second line forwards and second defenisive pairing.**
+- If the zone start variable of a player is the third highest in that specific position, it indicates that the given skater participated in the third most offensive zone starts. These skaters will be identified as **third line forwards and bottom defenisive pairing.**
+- If the zone start variable of a player is the lowest in that specific position, it indicates that the given skater participated in the least offensive zone starts. These skaters will be identified as **fourth line forwards.**
