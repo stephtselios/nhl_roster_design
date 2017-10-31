@@ -10,7 +10,8 @@ Order of code:
 ## Analysis
 * player evaluation
 * roster 
-** summary
+
+** summary by team
 ** statistical model
 
 
