@@ -1,0 +1,7 @@
+Order of code:
+
+(1) merge_data 
+(2) reshape_data
+(3) player_quality
+(4) team_roster_quality
+(5) roster_model_estimation
